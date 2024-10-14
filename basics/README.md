@@ -1,3 +1,1 @@
-$ ./0-current_working_directory
-/basics
-$ pwd
+Practicing Shell Basics
