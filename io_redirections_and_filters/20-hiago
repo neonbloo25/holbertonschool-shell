@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "*c*" | tr -d "c" < *.???
+grep "*c*" | tr -d "c" < *
