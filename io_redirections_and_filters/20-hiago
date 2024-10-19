@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -F "c" | tr -d "c" < **/*
+grep -F "c" | tr -d "c"
