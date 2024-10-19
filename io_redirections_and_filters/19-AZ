@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e "A" -e "c" . | tr "A" "Z" | tr "c" "e"
+grep -e "A" -e "c" | tr "A" "Z" | tr "c" "e"
