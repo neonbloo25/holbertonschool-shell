@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr '/' '\n'| wc -l
+$PATH | tr '/' '\n'| tail -n 11 | wc -l
