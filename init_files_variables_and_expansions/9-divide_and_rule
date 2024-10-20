@@ -1,2 +1,2 @@
 #!/bin/bash
-source POWER ;source DIVIDE ;printf "$(($POWER / $DIVIDE))/n"
+source POWER,DIVIDE printf "$(($POWER / $DIVIDE))/n"
