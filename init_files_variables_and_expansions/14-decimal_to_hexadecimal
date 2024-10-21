@@ -1,2 +1,2 @@
 #!/bin/bash
-source DECIMAL | printf "%X%x\n" "$DECIMAL"
+source DECIMAL | printf "%X%x\n" "DECIMAL"
